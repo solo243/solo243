@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Harshil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solo243&label=Profile%20views&color=0e75b6&style=flat" alt="solo243" /> </p>
 
